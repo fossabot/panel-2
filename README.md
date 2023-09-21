@@ -5,6 +5,7 @@
 [![Report Card](https://goreportcard.com/badge/github.com/haozi-team/panel)](https://goreportcard.com/report/github.com/haozi-team/panel)
 [![Codecov](https://codecov.io/gh/haozi-team/panel/branch/main/graph/badge.svg?token=XFT5NGNSRG)](https://codecov.io/gh/haozi-team/panel)
 ![License](https://img.shields.io/github/license/haozi-team/panel)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhaozi-team%2Fpanel.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhaozi-team%2Fpanel?ref=badge_shield)
 
 这是耗子Linux面板，一种使用GO开发的轻量Linux服务器运维管理面板。
 
@@ -133,3 +134,7 @@ panel
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=haozi-team/panel&type=Date" />
   </picture>
 </a>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhaozi-team%2Fpanel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhaozi-team%2Fpanel?ref=badge_large)
